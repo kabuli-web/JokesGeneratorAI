@@ -106,6 +106,9 @@ You will be prompted to enter a noun (e.g., "man", "dog", "teacher"). The script
 
 - **GloVe:**  
   Pennington, J., Socher, R., & Manning, C. D. (2014). [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf). In *EMNLP*.
+- **Subtlex-US:**  
+ [Subtlex-US](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus)
+  
 - **ACL Paper (for humor generation method):**  
   [ACL Anthology Paper P13-2041](https://aclanthology.org/P13-2041.pdf)
 - **spaCy:**  
